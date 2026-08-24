@@ -1,6 +1,8 @@
 # MØDLR Studio
 
-Design-focused Blender tools built around precision, predictable behavior, and efficient modeling workflows.
+MØDLR Studio is an independent product studio developing Blender tools and workflow systems.
+
+**MØDLR Tools** is the Blender add-on line developed under MØDLR Studio.
 
 ---
 
@@ -18,7 +20,7 @@ A precision 3D Cursor workflow system for Blender focused on fast, controlled, a
 
 → https://github.com/MODLR-Studio/modlr_cursor_ops
 
-### Smart Empties — MØDLR SMART
+### Smart Empties
 
 A Blender system for faster, more structured empty placement and management.
 
