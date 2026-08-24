@@ -8,7 +8,7 @@ MØDLR Studio is an independent product studio developing Blender tools and work
 
 ## What I'm Building
 
-### Cursor Ops — MØDLR Tools
+### Cursor Ops · MØDLR Tools
 
 A precision 3D Cursor workflow system for Blender focused on fast, controlled, and repeatable placement.
 
@@ -20,7 +20,7 @@ A precision 3D Cursor workflow system for Blender focused on fast, controlled, a
 
 → https://github.com/MODLR-Studio/modlr_cursor_ops
 
-### Smart Empties — MØDLR Tools
+### Smart Empties · MØDLR Tools
 
 A Blender system for faster, more structured empty placement and management.
 
