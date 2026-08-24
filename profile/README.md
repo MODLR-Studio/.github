@@ -1,26 +1,46 @@
 # MØDLR Studio
 
-Design-focused Blender tools built for clarity, precision, and solid workflow UX.
+Design-focused Blender tools built around precision, predictable behavior, and efficient modeling workflows.
 
 ---
 
-## What I’m building
+## What I'm Building
 
-### **Smart Empties — MØDLR SMART Tools**
-Precision empty placement and management for Blender — fast, deterministic, and undo-safe.
+### Cursor Ops — MØDLR Tools
+
+A precision 3D Cursor workflow system for Blender focused on fast, controlled, and repeatable placement.
+
+- Modal Cursor Move and Rotate workflows
+- Selection-driven placement and orientation
+- Local Z positioning and surface placement
+- 3D cursor gizmos and WPlane visual feedback
+- Recall, reset, sync, and pivot utilities
+
+→ https://github.com/MODLR-Studio/modlr_cursor_ops
+
+### Smart Empties — MØDLR SMART
+
+A Blender system for faster, more structured empty placement and management.
+
+Currently in development for a future public release.
+
 → https://github.com/MODLR-Studio/modlr_smart_empties
 
-More tools will land here over time as development continues.
+More MØDLR Tools are in development.
 
 ---
 
-## Where to find me
-- **Website:** https://modlr.tools
-- **X (Twitter):** https://x.com/modlrstudio
+## Where to Find Me
+
+- **GitHub:** https://github.com/MODLR-Studio
+- **X:** https://x.com/modlrstudio
 - **YouTube:** https://youtube.com/@modlrstudio
 - **Reddit:** https://www.reddit.com/user/modlrstudio
 
 ---
 
 ## About MØDLR Studio
-Independent developer focused on building reliable, well-designed Blender tools with a clear, consistent user experience.
+
+MØDLR Studio is an independent product studio focused on building purpose-built Blender tools and interaction systems.
+
+MØDLR Tools emphasizes clear workflows, predictable behavior, minimal friction, and deliberate control — from focused utilities to larger modeling systems.
