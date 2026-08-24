@@ -20,7 +20,7 @@ A precision 3D Cursor workflow system for Blender focused on fast, controlled, a
 
 → https://github.com/MODLR-Studio/modlr_cursor_ops
 
-### Smart Empties
+### Smart Empties — MØDLR Tools
 
 A Blender system for faster, more structured empty placement and management.
 
